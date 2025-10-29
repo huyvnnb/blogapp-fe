@@ -1,0 +1,199 @@
+{
+  "login": {
+    "title": "Đăng nhập",
+    "login": "Đăng nhập",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "not_have_account": "Chưa có tài khoản?",
+    "already_have_account": "Đã có tài khoản?",
+    "display_name": "Tên hiển thị",
+    "register": "Đăng ký",
+    "loging": "Đang đăng nhập",
+    "admin": "Quản trị viên",
+    "not_is_admin": "Bạn không phải là quản trị viên?",
+    "return_user": "Quay về trang người dùng"
+  },
+  "navbar": {
+    "posts": "Bài viết",
+    "explore": "Khám phá",
+    "profile": "Hồ sơ",
+    "logout": "Đăng xuất",
+    "account": "Tài khoản",
+    "search": "Tìm kiếm",
+    "search_not_found": "Không tìm thấy kết quả nào",
+    "hot_keyword": "Từ khóa nổi bật",
+    "search_end": "Đã xem hết dữ liệu",
+    "language": "Ngôn ngữ",
+    "vietnamese": "Tiếng Việt",
+    "english": "Tiếng Anh"
+  },
+  "sidebar": {
+    "create_post": "Tạo bài viết",
+    "dashboard": "Thống kê",
+    "user_manage": "Quản lý người dùng",
+    "post_manage": "Quản lý bài viết",
+    "config": "Cấu hình",
+    "home": "Trang chủ"
+  },
+  "button": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "loading": "Đang tải dữ liệu"
+  },
+  "post": {
+    "new_post": "Thêm bài viết",
+    "post": "Bài viết",
+    "read_more": "Đọc thêm",
+    "no_post": "Chưa có bài viết nào",
+    "by": "Tác giả",
+    "approve": "Duyệt",
+    "reject": "Từ chối",
+    "pending": "Chờ duyệt",
+    "public":"Công khai",
+    "private":"Riêng tư",
+    "publish":"Xuất bản",
+    "draft":"Bản nháp"
+  },
+  "edit": {
+    "titlePlaceholder": "Tiêu đề bài viết",
+    "summaryPlaceholder": "Tóm tắt nội dung",
+    "contentPlaceholder": "Nội dung chính (Markdown được hỗ trợ)",
+    "publish": "Xuất bản",
+    "draft": "Bản nháp",
+    "update": "Cập nhật",
+    "private": "Riêng tư",
+    "public": "Công khai",
+    "no_content": "Không có nội dung"
+  },
+  "auth": {
+    "not_have_account": "Chưa có tài khoản?"
+  },
+  "report": {
+    "post_stats": "Thống kê",
+    "post_status": "Tỉ lệ bài viết theo trạng thái",
+    "daily": "Theo ngày",
+    "weekly": "Theo tuần",
+    "monthly": "Theo tháng",
+    "yearly": "Theo năm",
+    "approved": "Đã duyệt",
+    "pending": "Chờ duyệt",
+    "rejected": "Từ chối",
+    "total": "Tổng",
+    "to_date": "Đến ngày",
+    "pending_post": "Bài viết chờ duyệt",
+    "no_pending_post": "Không có bài viết nào đang chờ duyệt",
+    "count": "Số lượng",
+    "post": "bài viết",
+    "post_count": "Số bài viết",
+    "no_data": "Không có dữ liệu",
+    "refresh": "Làm mới"
+  },
+  "range": {
+    "daily": {
+      "7": "7 ngày",
+      "14": "14 ngày",
+      "30": "30 ngày"
+    },
+    "weekly": {
+      "5": "5 tuần",
+      "10": "10 tuần",
+      "15": "15 tuần"
+    },
+    "monthly": {
+      "3": "3 tháng",
+      "6": "6 tháng",
+      "12": "12 tháng"
+    },
+    "yearly": {
+      "3": "3 năm",
+      "5": "5 năm",
+      "10": "10 năm"
+    }
+  },
+  "dashboard": {
+    "title": "Trang quản lý",
+    "desc": "Tổng quan về các bài viết và hoạt động của bạn",
+    "post_status": "Trạng thái bài viết",
+    "load": "Đang tải",
+    "fail_load": "Tải trạng thái bài viết thất bại. Hãy thử lại",
+    "activity": "Hoạt động",
+    "export_report": "Xuất báo cáo"
+  },
+  "load": "Đang tải",
+  "months": {
+    "jan": "Tháng 1",
+    "feb": "Tháng 2",
+    "mar": "Tháng 3",
+    "apr": "Tháng 4",
+    "may": "Tháng 5",
+    "jun": "Tháng 6",
+    "jul": "Tháng 7",
+    "aug": "Tháng 8",
+    "sep": "Tháng 9",
+    "oct": "Tháng 10",
+    "nov": "Tháng 11",
+    "dec": "Tháng 12"
+  },
+  "export": {
+    "title": "Xuất báo cáo",
+    "desc": "Chọn các thông tin muốn xuất ra file Excel",
+    "select_all": "Chọn tất cả",
+    "deselect_all": "Bỏ chọn tất cả",
+    "export": "Xuất",
+    "cancel": "Hủy",
+    "user_info": "Thông tin người dùng",
+    "post_info": "Thông tin bài viết",
+    "total_posts": "Tổng số bài viết",
+    "avg_length": "Độ dài trung bình",
+    "approval_rate": "Tỉ lệ duyệt bài",
+    "choose_post_fields": "Chọn trường bài viết",
+    "post_fields": {
+      "id": "ID",
+      "title": "Tiêu đề",
+      "content": "Nội dung",
+      "summary": "Tóm tắt",
+      "user_id": "Người dùng",
+      "published": "Đã xuất bản",
+      "is_public": "Công khai",
+      "status": "Trạng thái",
+      "created_at": "Ngày tạo",
+      "updated_at": "Ngày cập nhật"
+    }
+  },
+  "admin": {
+    "admin_dashboard": "Trang quản trị",
+    "post_management": "Quản lý bài viết",
+    "post_manage_desc": "Kiểm duyệt, duyệt hoặc xóa các bài viết của người dùng",
+    "access": "Truy cập",
+    "title": "Tiêu đề",
+    "author": "Tác giả",
+    "status": "Trạng thái",
+    "created_at": "Ngày tạo",
+    "action": "Hành động",
+    "pending": "Chờ duyệt"
+  },
+  "notify": {
+    "success": {
+      "login": "Đăng nhập thành công",
+      "register": "Đăng ký thành công",
+      "post_publish": "Xuất bản bài viết thành công",
+      "save_draft": "Đã lưu bản nháp",
+      "update_post": "Cập nhật bài viết thành công",
+      "delete_post": "Xóa bài viết thành công"
+    },
+    "error": {
+      "post_not_empty": "Tiêu đề và nội dung bài viết không được để trống",
+      "publish_failed": "Xuất bản thất bại",
+      "update_failed": "Cập nhật thất bại",
+      "draft_save_failed": "Lưu bản nháp thất bại",
+      "delete_failed": "Xóa bài viết thất bại",
+      "user_not_found": "Người dùng không tồn tại",
+      "password_incorrect": "Tên đăng nhập hoặc mật khẩu không chính xác",
+      "post_not_found": "Bài viết không tồn tại",
+      "unauthorized": "Bạn không có quyền thực hiện hành động này",
+      "error_occur": "Đã có lỗi xảy ra",
+      "login_failed": "Đăng nhập thất bại",
+      "register_failed": "Đăng ký thất bại"
+    }
+  }
+}

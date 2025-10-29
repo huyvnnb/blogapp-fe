@@ -1,0 +1,199 @@
+{
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "not_have_account": "Not have account?",
+    "already_have_account": "Already have account?",
+    "display_name": "Display name",
+    "register": "Register",
+    "loging": "Logging in",
+    "admin": "Administrator",
+    "not_is_admin": "Not an administrator?",
+    "return_user": "Return to user page"
+  },
+  "navbar": {
+    "posts": "Posts",
+    "explore": "Explore",
+    "profile": "Profile",
+    "logout": "Logout",
+    "account": "Account",
+    "search": "Search",
+    "search_not_found": "No result found",
+    "hot_keyword": "Hot keyword",
+    "language": "Language",
+    "vietnamese": "Vietnamese",
+    "english": "English",
+    "search_end": "No more data"
+  },
+  "sidebar": {
+    "create_post": "New post",
+    "dashboard": "Dashboard",
+    "user_manage": "User Management",
+    "post_manage": "Post Management",
+    "config": "Configuration",
+    "home": "Home"
+  },
+  "button": {
+    "login": "Login",
+    "register": "Register",
+    "loading": "Loading"
+  },
+  "post": {
+    "new_post": "New post",
+    "post": "Posts",
+    "read_more": "Read more",
+    "no_post": "No post",
+    "by": "By",
+    "approve": "Approved",
+    "reject": "Rejected",
+    "pending": "Pending",
+    "public":"Public",
+    "private":"Private",
+    "publish":"Published",
+    "draft":"Draft"
+  },
+  "edit": {
+    "titlePlaceholder": "Post title",
+    "summaryPlaceholder": "Summary",
+    "contentPlaceholder": "Main content (Markdown supported)",
+    "publish": "Publish",
+    "draft": "Draft",
+    "update": "Update",
+    "private": "Private",
+    "public": "Public",
+    "no_content": "No content"
+  },
+  "auth": {
+    "not_have_account": "Not have account?"
+  },
+  "report": {
+    "post_stats": "Statistics",
+    "post_status": "Post Status Ratio",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "approved": "Approved",
+    "pending": "Pending",
+    "rejected": "Rejected",
+    "total": "Total",
+    "to_date": "To Date",
+    "pending_post": "All pending posts",
+    "no_pending_post": "No pending posts",
+    "count": "Count",
+    "post": "post(s)",
+    "post_count": "Number of posts",
+    "no_data": "No data",
+    "refresh": "Refresh"
+  },
+  "range": {
+    "daily": {
+      "7": "7 days",
+      "14": "14 days",
+      "30": "30 days"
+    },
+    "weekly": {
+      "5": "5 weeks",
+      "10": "10 weeks",
+      "15": "15 weeks"
+    },
+    "monthly": {
+      "3": "3 months",
+      "6": "6 months",
+      "12": "12 months"
+    },
+    "yearly": {
+      "3": "3 years",
+      "5": "5 years",
+      "10": "10 years"
+    }
+  },
+  "dashboard": {
+    "title": "User Dashboard",
+    "desc": "Overview of your posts and activities",
+    "post_status": "Post Status",
+    "load": "Loading",
+    "fail_load": "Failed to load post status, try again",
+    "activity": "Activity",
+    "export_report": "Export Report"
+  },
+  "load": "Loading",
+  "months": {
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  },
+  "export": {
+    "title": "Export Report",
+    "desc": "Select the information you want to export to an Excel file",
+    "select_all": "Select all",
+    "deselect_all": "Deselect all",
+    "export": "Export",
+    "cancel": "Cancel",
+    "user_info": "User information",
+    "post_info": "Post information",
+    "total_posts": "Total posts",
+    "avg_length": "Average length",
+    "approval_rate": "Approval rate",
+    "choose_post_fields": "Choose post fields",
+    "post_fields": {
+      "id": "ID",
+      "title": "Title",
+      "content": "Content",
+      "summary": "Summary",
+      "user_id": "User ID",
+      "published": "Published",
+      "is_public": "Public",
+      "status": "Status",
+      "created_at": "Created",
+      "updated_at": "Updated"
+    }
+  },
+  "admin": {
+    "admin_dashboard": "Admin Dashboard",
+    "user_management": "User Management",
+    "post_management": "Post Management",
+    "post_manage_desc": "Moderate, approve, or delete user posts",
+    "access": "Access",
+    "title": "Title",
+    "author": "Author",
+    "status": "Status",
+    "created_at": "Created At",
+    "action": "Action",
+    "pending": "Pending"
+  },
+  "notify": {
+    "success": {
+      "login": "Login successful",
+      "register": "Registration successful",
+      "post_publish": "Post published successfully",
+      "save_draft": "Draft saved successfully",
+      "update_post": "Post updated successfully",
+      "delete_post": "Post deleted successfully"
+    },
+    "error": {
+      "post_not_empty": "Post title and content must not be empty",
+      "publish_failed": "Publishing failed",
+      "update_failed": "Update failed",
+      "draft_save_failed": "Saving draft failed",
+      "delete_failed": "Deleting post failed",
+      "user_not_found": "User not found",
+      "password_incorrect": "Incorrect username or password",
+      "post_not_found": "Post not found",
+      "unauthorized": "You do not have permission to perform this action",
+      "error_occur": "Some error occurred",
+      "login_failed": "Login failed",
+      "register_failed": "Registration failed"
+    }
+  }
+}
