@@ -10,7 +10,8 @@
     "loging": "Logging in",
     "admin": "Administrator",
     "not_is_admin": "Not an administrator?",
-    "return_user": "Return to user page"
+    "return_user": "Return to user page",
+    "go_to_admin": "You are administrator?"
   },
   "navbar": {
     "posts": "Posts",

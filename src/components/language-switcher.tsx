@@ -29,8 +29,8 @@ export const LanguageSwitcher = () => {
       <DropdownMenuContent align="end" className="w-32">
         <DropdownMenuLabel>{t("navbar.language")}</DropdownMenuLabel>
         <DropdownMenuSeparator />
-        <DropdownMenuItem onClick={() => changeLanguage("vi")}>{t("navbar.vietnamese")}</DropdownMenuItem>
-        <DropdownMenuItem onClick={() => changeLanguage("en")}>{t("navbar.english")}</DropdownMenuItem>
+        <DropdownMenuItem id="vi" onClick={() => changeLanguage("vi")}>{t("navbar.vietnamese")}</DropdownMenuItem>
+        <DropdownMenuItem id="en" onClick={() => changeLanguage("en")}>{t("navbar.english")}</DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
   )

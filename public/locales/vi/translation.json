@@ -11,7 +11,8 @@
     "loging": "Đang đăng nhập",
     "admin": "Quản trị viên",
     "not_is_admin": "Bạn không phải là quản trị viên?",
-    "return_user": "Quay về trang người dùng"
+    "return_user": "Quay về trang người dùng",
+    "go_to_admin": "Bạn là quản trị viên?"
   },
   "navbar": {
     "posts": "Bài viết",

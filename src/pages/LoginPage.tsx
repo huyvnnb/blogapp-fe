@@ -91,10 +91,18 @@ const LoginPage = () => {
           <p className="text-muted-foreground">
             {t("login.not_have_account")}{" "}
             <span
-              className="text-primary hover:underline cursor-pointer"
+              className="text-primary font-semibold underline underline-offset-2 hover:text-primary/80 cursor-pointer transition-colors duration-200"
               onClick={() => navigate("/register")}
             >
               {t("login.register")}
+            </span>
+          </p>
+          <p className="text-muted-foreground">
+            <span
+              className="text-primary hover:underline cursor-pointer"
+              onClick={() => navigate("/admin")}
+            >
+              {t("login.go_to_admin")}
             </span>
           </p>
         </CardFooter>
